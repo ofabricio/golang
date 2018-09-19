@@ -11,6 +11,7 @@ Best videos about golang
 * [The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw)
 * [Understanding Go's type aliases](https://www.youtube.com/watch?v=Vg603e9C-Vg)
 * [Unit testing HTTP servers](https://www.youtube.com/watch?v=hVFEV-ieeew)
+* [Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
 
 ## Texts
 
