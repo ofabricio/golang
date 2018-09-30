@@ -12,6 +12,7 @@ Best videos about golang
 * [Understanding Go's type aliases](https://www.youtube.com/watch?v=Vg603e9C-Vg)
 * [Unit testing HTTP servers](https://www.youtube.com/watch?v=hVFEV-ieeew)
 * [Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
+* [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
 
 ## Texts
 
