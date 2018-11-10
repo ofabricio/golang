@@ -15,7 +15,7 @@ Best videos about golang
 * [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
 * [Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 * [Rethinking Classical Concurrency Patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
-* [Production-ready Go](https://www.youtube.com/watch?v=YF1qSfkDGAQ)
+* [Production-ready Go](https://www.youtube.com/watch?v=YF1qSfkDGAQ) (Client/Server Timeouts, OS Signals, Cancellation)
 
 ## Texts
 
