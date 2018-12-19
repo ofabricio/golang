@@ -23,3 +23,4 @@ Best videos about golang
 ## Texts
 
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+* [Clean Architecture using Golang](https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f)
