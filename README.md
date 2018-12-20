@@ -19,6 +19,7 @@ Best videos about golang
 * [Production-ready Go](https://www.youtube.com/watch?v=YF1qSfkDGAQ) (Client/Server Timeouts, OS Signals, Cancellation)
 * [How to write your own Go tool](https://www.youtube.com/watch?v=oxc8B2fjDvY) (go/token, go/parser, go/ast, go/printer)
 * [Tools for working with Go Code](https://www.youtube.com/watch?v=wqN-l4OrMP4)
+* [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 
 ## Texts
 
