@@ -23,6 +23,7 @@ Best videos about golang
 * [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 * [Building an enterprise service in Go](https://www.youtube.com/watch?v=twcDf_Y2gXY)
 * [Contexts in Context](https://www.youtube.com/watch?v=GhRG_7X4BPI)
+* [Ways To Do Things](https://www.youtube.com/watch?v=LHe1Cb_Ud_M)
 
 ## Texts
 
