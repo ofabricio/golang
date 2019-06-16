@@ -3,6 +3,7 @@ Best videos about golang
 
 ## Videos
 
+* [Journey from OO language to Golang](https://www.youtube.com/watch?v=1ZjvhGfpwJ8)
 * [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI)
 * [Go Tooling in Action](https://www.youtube.com/watch?v=uBjoTxosSys)
 * [Why are there nil channels in Go?](https://www.youtube.com/watch?v=t9bEg2A4jsw)
