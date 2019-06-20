@@ -24,6 +24,7 @@ Best videos about golang
 * [Building an enterprise service in Go](https://www.youtube.com/watch?v=twcDf_Y2gXY)
 * [Contexts in Context](https://www.youtube.com/watch?v=GhRG_7X4BPI)
 * [Ways To Do Things](https://www.youtube.com/watch?v=LHe1Cb_Ud_M)
+* [How I build APIs capable of gigantic scale in Go](https://www.youtube.com/watch?v=FkPqqakDeRY)
 
 ## Texts
 
