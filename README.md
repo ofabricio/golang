@@ -25,6 +25,7 @@ Best videos about golang
 * [Contexts in Context](https://www.youtube.com/watch?v=GhRG_7X4BPI)
 * [Ways To Do Things](https://www.youtube.com/watch?v=LHe1Cb_Ud_M)
 * [How I build APIs capable of gigantic scale in Go](https://www.youtube.com/watch?v=FkPqqakDeRY)
+* [Building Hexagonal Microservices with Go - Part One](https://www.youtube.com/watch?v=rQnTtQZGpg8)
 
 ## Texts
 
